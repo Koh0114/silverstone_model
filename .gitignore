@@ -1,0 +1,22 @@
+# F1 데이터 (비공개)
+data/
+
+# 실행 결과 (README용 그래프는 figures/에 따로 있음)
+out/
+
+# 수행평가 초안, 개인 문서
+*.docx
+수행평가_초안.md
+F1_코너속도_모델_설명.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 기타
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
